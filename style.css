@@ -9,12 +9,12 @@
     --text-color: #f8fafc;
     --text-muted: #94a3b8;
     --bg-color: #111827; /* Darker gray-black */
-    --bg-image: url('./assets/mobile.png');
+    --bg-image: url('./assets/mobile.png?v=2');
     --surface-color: rgba(255, 255, 255, 0.05);
     --surface-color-hover: rgba(255, 255, 255, 0.1);
     --stroke-color: rgba(255, 255, 255, 0.1);
     --highlight-color: rgba(255, 255, 255, 0.2);
-    --switch-br-url: url(./assets/moon-stars.svg);
+    --switch-br-url: url('./assets/moon-stars.svg?v=2');
     --brand-color: #10b981; 
 }
 
@@ -23,7 +23,7 @@
     --text-color: #0f172a;
     --text-muted: #475569;
     --bg-color: #f8fafc;
-    --bg-image: url('./assets/download.png');
+    --bg-image: url('./assets/download.png?v=2');
     --surface-color: rgba(0, 0, 0, 0.03);
     --surface-color-hover: rgba(0, 0, 0, 0.06);
     --stroke-color: rgba(0, 0, 0, 0.1);
